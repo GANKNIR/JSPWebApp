@@ -1,4 +1,4 @@
-# Greenhouse Reference Application
+# Greenhouse Application
 
 ## Overview
 
